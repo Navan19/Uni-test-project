@@ -18,5 +18,16 @@ Project is created with:
 
 ## Set up
 
+Install PyCharm as platform to enable pygames 
+
 ## Project Status 
 
+This project is an prototype stage and is undeveloped. The code behind Booting Up needs further refinement to be operational and to provide the intended purpose 
+
+### Room for Improvement 
+
+#### Functions and game states 
+The prototype would benefit from a further understanding of Python functions and how to alter game states to display different screens that reflect the players choices throughout the game 
+
+#### Button Dials 
+Additionally, the prototype would benefit from a greater understanding how different button inputs can be coded to change functions and game states 
